@@ -115,7 +115,7 @@
 
 .header__title {
   margin-left: 0;
-  font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  font-size: clamp(7.25rem, 7rem + 1vw, 7.5rem);
   font-weight: 700;
   line-height: 0.83;
   color: var(--header__title-color);
@@ -239,7 +239,7 @@
   height: 100%;
   margin-left: 0;
   margin-top: 0;
-  font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  font-size: clamp(7.25rem, 7rem + 1vw, 7.5rem);
   font-weight: 700;
   line-height: 0.83;
   color: var(--header__title-color);
@@ -253,7 +253,7 @@
 
   .header__title {
     margin-left: -20px;
-    font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+    font-size: clamp(7.5rem, 0.56rem + 14.45vw, 9.8rem);
   }
 
   .header__description {
@@ -429,6 +429,6 @@
   }
 
   .footer__title {
-    font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+    font-size: clamp(7.5rem, 0.56rem + 14.45vw, 9.8rem);
   }
 }
